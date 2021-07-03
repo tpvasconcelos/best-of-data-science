@@ -5,6 +5,7 @@ configuration:
   require_license: False
   require_repo: False
   max_trending_projects: 1000
+  hide_license_risk: Fakse
 
 categories:
   - category: cli
