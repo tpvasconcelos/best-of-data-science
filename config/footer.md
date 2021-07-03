@@ -4,6 +4,7 @@
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**LibHunt's Awesome Python**](https://python.libhunt.com/) - A curated list of awesome Python frameworks, packages, software and resources.
 
 ## Contribution
 

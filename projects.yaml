@@ -19,6 +19,8 @@ categories:
   - category: datetime
     title: Dates, times, and datetimes
     subtitle: Libraries for handeling all sorts of datetime objects. Note that both `arrow` and `pendulum` are built on top of `dateutil` and `pytz`
+  - category: misc
+    title: Miscellaneous
 
 labels:
   # - label: "python"
@@ -28,61 +30,77 @@ labels:
 projects:
   - name: python-fire
     github_id: google/python-fire
-    # labels: ["python"]
+    pypi_id: fire
     category: cli
   - name: typer
     github_id: tiangolo/typer
+    pypi_id: typer
     category: cli
   - name: click
     github_id: pallets/click
+    pypi_id: click
     category: cli
   - name: pygments
     github_id: pygments/pygments
+    pypi_id: Pygments
     category: cli
   - name: rich
     github_id: willmcgugan/rich
+    pypi_id: rich
     category: cli
   - name: fuzzyfinder
     github_id: amjith/fuzzyfinder
+    pypi_id: fuzzyfinder
     category: cli
   - name: python-prompt-toolkit
     github_id: prompt-toolkit/python-prompt-toolkit
+    pypi_id: prompt-toolkit
     category: cli
 
   # Logging, Debugging, and Exception Handling
   - name: json-logging-python
     github_id: bobbui/json-logging-python
+    pypi_id: json-logging
     category: debug
   - name: better-exceptions
     github_id: Qix-/better-exceptions
+    pypi_id: better-exceptions
     category: debug
   - name: python-json-logger
     github_id: madzak/python-json-logger
+    pypi_id: python-json-logger
     category: debug
   - name: structlog
     github_id: hynek/structlog
+    pypi_id: structlog
     category: debug
   - name: loguru
     github_id: Delgan/loguru
+    pypi_id: loguru
     category: debug
   - name: sentry
-    github_id: getsentry/sentry
+    github_id: getsentry/sentry-python
+    pypi_id: sentry-sdk
     category: debug
 
   # Caching and Memoization
   - name: klepto
     github_id: uqfoundation/klepto
+    pypi_id: klepto
     category: caching
   - name: cachetools
     github_id: tkem/cachetools
+    pypi_id: cachetools
     category: caching
   - name: boltons
     github_id: mahmoud/boltons
+    pypi_id: boltons
     homepage: https://boltons.readthedocs.io/en/latest/cacheutils.html
     description: "`boltons.cacheutils` contains consistent implementations of fundamental cache types."
     category: caching
   - name: joblib
     github_id: joblib/joblib
+    pypi_id: joblib
     homepage: https://joblib.readthedocs.io/en/latest/generated/joblib.Memory.html
     description: "`joblib.Memory` defines a context object for caching a function’s return value each time it is called with the same input arguments. Read more in the [User Guide](https://joblib.readthedocs.io/en/latest/memory.html#memory)."
     category: caching
@@ -90,30 +108,65 @@ projects:
   # Configuration Management
   - name: dynaconf
     github_id: rochacbruno/dynaconf
+    pypi_id: dynaconf
     category: config
   - name: python-decouple
     github_id: henriquebastos/python-decouple
+    pypi_id: python-decouple
     category: config
   - name: python-dotenv
     github_id: theskumar/python-dotenv
+    pypi_id: python-dotenv
     category: config
   - name: environs
     github_id: sloria/environs
+    pypi_id: environs
     category: config
   - name: hydra
     github_id: facebookresearch/hydra
+    pypi_id: hydra
     category: config
 
   # Configuration Management
   - name: arrow
     github_id: arrow-py/arrow
+    pypi_id: arrow
     category: datetime
   - name: pendulum
     github_id: sdispater/pendulum
+    pypi_id: pendulum
     category: datetime
   - name: dateutil
     github_id: dateutil/dateutil
+    pypi_id: python-dateutil
     category: datetime
   - name: pytz
     github_id: stub42/pytz
+    pypi_id: pytz
     category: datetime
+
+  # Miscellaneous
+  - name: parse
+    github_id: r1chardj0n3s/parse
+    pypi_id: parse
+    category: misc
+  - name: deepdiff
+    github_id: seperman/deepdiff
+    pypi_id: deepdiff
+    category: misc
+  - name: cloudpickle
+    github_id: cloudpipe/cloudpickle
+    pypi_id: cloudpickle
+    category: misc
+  - name: dill
+    github_id: uqfoundation/dill
+    pypi_id: dill
+    category: misc
+  - name: wrapt
+    github_id: GrahamDumpleton/wrapt
+    pypi_id: wrapt
+    category: misc
+  - name: boltons
+    github_id: mahmoud/boltons
+    pypi_id: boltons
+    category: misc
