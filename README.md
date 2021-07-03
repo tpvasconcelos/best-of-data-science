@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-31-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-32-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/tpvasconcelos/best-of-data-science/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/tpvasconcelos/best-of-data-science?color=green&label=updated"></a>
 </p>
 
-This curated list contains 31 awesome open-source projects with a total of 130K stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/tpvasconcelos/best-of-data-science/issues/new/choose), submit a [pull request](https://github.com/tpvasconcelos/best-of-data-science/pulls), or directly edit the [projects.yaml](https://github.com/tpvasconcelos/best-of-data-science/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 32 awesome open-source projects with a total of 140K stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/tpvasconcelos/best-of-data-science/issues/new/choose), submit a [pull request](https://github.com/tpvasconcelos/best-of-data-science/pulls), or directly edit the [projects.yaml](https://github.com/tpvasconcelos/best-of-data-science/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -26,7 +26,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 - [Caching and Memoization](#caching-and-memoization) _4 projects_
 - [Configuration Management](#configuration-management) _5 projects_
 - [Dates, times, and datetimes](#dates-times-and-datetimes) _4 projects_
-- [Miscellaneous](#miscellaneous) _5 projects_
+- [Miscellaneous](#miscellaneous) _6 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -210,7 +210,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://joblib.readthedocs.io/en/latest/generated/joblib.Memory.html">joblib</a></b> (🥇36 ·  ⭐ 2.5K · 📈) - `joblib.Memory` defines a context object for caching a functions return value each time it is called with the same.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://joblib.readthedocs.io/en/latest/generated/joblib.Memory.html">joblib.Memory</a></b> (🥇36 ·  ⭐ 2.5K · ➕) - `joblib.Memory` defines a context object for caching a functions return value each time it is called with the same.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/joblib/joblib) (👨‍💻 100 · 🔀 290 · 📦 110K · 📋 660 - 44% open · ⏱️ 11.06.2021):
 
@@ -222,7 +222,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 	pip install joblib
 	```
 </details>
-<details><summary><b><a href="https://boltons.readthedocs.io/en/latest/cacheutils.html">boltons</a></b> (🥈31 ·  ⭐ 5.5K · 📈) - `boltons.cacheutils` contains consistent implementations of fundamental cache types. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://boltons.readthedocs.io/en/latest/cacheutils.html">boltons.cacheutils</a></b> (🥈31 ·  ⭐ 5.5K · ➕) - `boltons.cacheutils` contains consistent implementations of fundamental cache types. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/mahmoud/boltons) (👨‍💻 72 · 🔀 300 · 📥 19 · 📦 1.5K · 📋 130 - 31% open · ⏱️ 19.05.2021):
 
@@ -388,6 +388,18 @@ _Libraries for handeling all sorts of datetime objects. Note that both `arrow` a
 - [PyPi](https://pypi.org/project/wrapt) (📥 31M / month · 📦 21K · ⏱️ 09.03.2020):
 	```
 	pip install wrapt
+	```
+</details>
+<details><summary><b><a href="https://github.com/mahmoud/boltons">boltons</a></b> (🥈31 ·  ⭐ 5.5K · 📈) - Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/mahmoud/boltons) (👨‍💻 72 · 🔀 300 · 📥 19 · 📦 1.5K · 📋 130 - 31% open · ⏱️ 19.05.2021):
+
+	```
+	git clone https://github.com/mahmoud/boltons
+	```
+- [PyPi](https://pypi.org/project/boltons) (📥 1.1M / month · 📦 490 · ⏱️ 17.05.2021):
+	```
+	pip install boltons
 	```
 </details>
 <details><summary><b><a href="https://github.com/uqfoundation/dill">dill</a></b> (🥈30 ·  ⭐ 1.4K · 📈) - serialize all of python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>

@@ -59,6 +59,10 @@ projects:
     category: cli
 
   # Logging, Debugging, and Exception Handling
+  - name: rich.logging
+    github_id: willmcgugan/rich
+    pypi_id: rich
+    category: debug
   - name: json-logging-python
     github_id: bobbui/json-logging-python
     pypi_id: json-logging
@@ -93,13 +97,13 @@ projects:
     github_id: tkem/cachetools
     pypi_id: cachetools
     category: caching
-  - name: boltons
+  - name: boltons.cacheutils
     github_id: mahmoud/boltons
     pypi_id: boltons
     homepage: https://boltons.readthedocs.io/en/latest/cacheutils.html
     description: "`boltons.cacheutils` contains consistent implementations of fundamental cache types."
     category: caching
-  - name: joblib
+  - name: joblib.Memory
     github_id: joblib/joblib
     pypi_id: joblib
     homepage: https://joblib.readthedocs.io/en/latest/generated/joblib.Memory.html
