@@ -25,10 +25,17 @@ init: clean-all ## initialise development environment
 	.venv/bin/pip install --upgrade pip
 	.venv/bin/pip install --upgrade best-of
 
+
 .PHONY: build
 build: ## build best-of list
 	.venv/bin/best-of generate --github-key "${GITHUB_API_TOKEN}" --libraries-key "${LIBRARIES_API_KEY}" ./projects.yaml
 
+
+.PHONY: publish
+publish: ## publish new best-of list
+	git add -A
+	git commit -m "publish new best-of list"
+	git push
 
 # ==============================================================
 # ---  Clean
