@@ -62,7 +62,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 	pip install click
 	```
 </details>
-<details><summary><b><a href="https://github.com/prompt-toolkit/python-prompt-toolkit">python-prompt-toolkit</a></b> (🥈36 ·  ⭐ 7.1K · 📈) - Library for building powerful interactive command.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/prompt-toolkit/python-prompt-toolkit">python-prompt-toolkit</a></b> (🥈36 ·  ⭐ 7.1K · 📈) - Library for building powerful interactive command line applications in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/prompt-toolkit/python-prompt-toolkit) (👨‍💻 180 · 🔀 560 · 📦 160K · 📋 920 - 47% open · ⏱️ 17.06.2021):
 
@@ -86,7 +86,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 	pip install Pygments
 	```
 </details>
-<details><summary><b><a href="https://github.com/willmcgugan/rich">rich</a></b> (🥉33 ·  ⭐ 27K · 📈) - Rich is a Python library for rich text and beautiful formatting in the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/willmcgugan/rich">rich</a></b> (🥉33 ·  ⭐ 27K · 📈) - Rich is a Python library for rich text and beautiful formatting in the terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/willmcgugan/rich) (👨‍💻 95 · 🔀 820 · 📦 5K · 📋 470 - 1% open · ⏱️ 28.06.2021):
 
@@ -98,7 +98,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 	pip install rich
 	```
 </details>
-<details><summary><b><a href="https://github.com/google/python-fire">python-fire</a></b> (🥉32 ·  ⭐ 20K · 📈) - Python Fire is a library for automatically generating.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/google/python-fire">python-fire</a></b> (🥉32 ·  ⭐ 20K · 📈) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/google/python-fire) (👨‍💻 46 · 🔀 1.2K · 📦 8.1K · 📋 250 - 43% open · ⏱️ 17.06.2021):
 
@@ -180,7 +180,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 	pip install python-json-logger
 	```
 </details>
-<details><summary><b><a href="https://github.com/bobbui/json-logging-python">json-logging-python</a></b> (🥉23 ·  ⭐ 170 · 📈) - Python logging library to emit JSON log that can be.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/bobbui/json-logging-python">json-logging-python</a></b> (🥉23 ·  ⭐ 170 · 📈) - Python logging library to emit JSON log that can be easily indexed and searchable by logging infrastructure such as.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/bobbui/json-logging-python) (👨‍💻 18 · 🔀 40 · 📦 180 · 📋 50 - 12% open · ⏱️ 17.06.2021):
 
@@ -210,7 +210,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://joblib.readthedocs.io/en/latest/generated/joblib.Memory.html">joblib</a></b> (🥇36 ·  ⭐ 2.5K · 📈) - `joblib.Memory` defines a context object for caching a functions.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://joblib.readthedocs.io/en/latest/generated/joblib.Memory.html">joblib</a></b> (🥇36 ·  ⭐ 2.5K · 📈) - `joblib.Memory` defines a context object for caching a functions return value each time it is called with the same.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/joblib/joblib) (👨‍💻 100 · 🔀 290 · 📦 110K · 📋 660 - 44% open · ⏱️ 11.06.2021):
 
@@ -222,7 +222,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 	pip install joblib
 	```
 </details>
-<details><summary><b><a href="https://boltons.readthedocs.io/en/latest/cacheutils.html">boltons</a></b> (🥈31 ·  ⭐ 5.5K · 📈) - `boltons.cacheutils` contains consistent implementations of.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://boltons.readthedocs.io/en/latest/cacheutils.html">boltons</a></b> (🥈31 ·  ⭐ 5.5K · 📈) - `boltons.cacheutils` contains consistent implementations of fundamental cache types. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/mahmoud/boltons) (👨‍💻 72 · 🔀 300 · 📥 19 · 📦 1.5K · 📋 130 - 31% open · ⏱️ 19.05.2021):
 
@@ -264,7 +264,7 @@ This curated list contains 31 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/theskumar/python-dotenv">python-dotenv</a></b> (🥇34 ·  ⭐ 4K · 📈) - Get and set values in your .env file in local and production.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/theskumar/python-dotenv">python-dotenv</a></b> (🥇34 ·  ⭐ 4K · 📈) - Get and set values in your .env file in local and production servers. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/theskumar/python-dotenv) (👨‍💻 70 · 🔀 250 · 📦 120K · 📋 180 - 11% open · ⏱️ 26.06.2021):
 
