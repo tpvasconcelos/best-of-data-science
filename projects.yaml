@@ -1,11 +1,24 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  min_stars: 1
+  require_license: False
+  require_repo: False
+  max_trending_projects: 1000
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: cli
+    title: CLI
+    # subtitle: Best-of lists about machine learning, data engieering, data science, or other topics related to big data.
+  - category: debug
+    title: Logging, Debugging, and Exception Handling
+  - category: caching
+    title: Caching and Memoization
+  - category: config
+    title: Configuration Management
+  - category: datetime
+    title: Dates, times, and datetimes
+    subtitle: Libraries for handeling all sorts of datetime objects. Note that both `arrow` and `pendulum` are built on top of `dateutil` and `pytz`
 
 labels:
   # - label: "python"
@@ -13,7 +26,94 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: python-fire
+    github_id: google/python-fire
+    # labels: ["python"]
+    category: cli
+  - name: typer
+    github_id: tiangolo/typer
+    category: cli
+  - name: click
+    github_id: pallets/click
+    category: cli
+  - name: pygments
+    github_id: pygments/pygments
+    category: cli
+  - name: rich
+    github_id: willmcgugan/rich
+    category: cli
+  - name: fuzzyfinder
+    github_id: amjith/fuzzyfinder
+    category: cli
+  - name: python-prompt-toolkit
+    github_id: prompt-toolkit/python-prompt-toolkit
+    category: cli
+
+  # Logging, Debugging, and Exception Handling
+  - name: json-logging-python
+    github_id: bobbui/json-logging-python
+    category: debug
+  - name: better-exceptions
+    github_id: Qix-/better-exceptions
+    category: debug
+  - name: python-json-logger
+    github_id: madzak/python-json-logger
+    category: debug
+  - name: structlog
+    github_id: hynek/structlog
+    category: debug
+  - name: loguru
+    github_id: Delgan/loguru
+    category: debug
+  - name: sentry
+    github_id: getsentry/sentry
+    category: debug
+
+  # Caching and Memoization
+  - name: klepto
+    github_id: uqfoundation/klepto
+    category: caching
+  - name: cachetools
+    github_id: tkem/cachetools
+    category: caching
+  - name: boltons
+    github_id: mahmoud/boltons
+    homepage: https://boltons.readthedocs.io/en/latest/cacheutils.html
+    description: "`boltons.cacheutils` contains consistent implementations of fundamental cache types."
+    category: caching
+  - name: joblib
+    github_id: joblib/joblib
+    homepage: https://joblib.readthedocs.io/en/latest/generated/joblib.Memory.html
+    description: "`joblib.Memory` defines a context object for caching a function’s return value each time it is called with the same input arguments. Read more in the [User Guide](https://joblib.readthedocs.io/en/latest/memory.html#memory)."
+    category: caching
+
+  # Configuration Management
+  - name: dynaconf
+    github_id: rochacbruno/dynaconf
+    category: config
+  - name: python-decouple
+    github_id: henriquebastos/python-decouple
+    category: config
+  - name: python-dotenv
+    github_id: theskumar/python-dotenv
+    category: config
+  - name: environs
+    github_id: sloria/environs
+    category: config
+  - name: hydra
+    github_id: facebookresearch/hydra
+    category: config
+
+  # Configuration Management
+  - name: arrow
+    github_id: arrow-py/arrow
+    category: datetime
+  - name: pendulum
+    github_id: sdispater/pendulum
+    category: datetime
+  - name: dateutil
+    github_id: dateutil/dateutil
+    category: datetime
+  - name: pytz
+    github_id: stub42/pytz
+    category: datetime
