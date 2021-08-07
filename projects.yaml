@@ -6,6 +6,7 @@ configuration:
   require_repo: False
   max_trending_projects: 1000
   hide_license_risk: False
+  max_description_length: 500
 
 categories:
   - category: cli
