@@ -48,170 +48,170 @@ This curated list contains 33 awesome open-source projects with a total of 170K 
 
 ## CLI
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<a href="#contents"><img align="right" width="15" height="15" src="https://bit.ly/382Vmvi" alt="Back to top"></a>
 
 <details><summary><b><a href="https://github.com/pallets/click">click</a></b> (🥇37 ·  ⭐ 11K) - Python composable command line interface toolkit. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pallets/click) (👨‍💻 310 · 🔀 1.1K · 📦 590K · 📋 1.2K - 5% open · ⏱️ 14.08.2021):
+- [GitHub](https://github.com/pallets/click) (👨‍💻 310 · 🔀 1.1K · 📦 610K · 📋 1.2K - 4% open · ⏱️ 26.09.2021):
 
 	```
 	git clone https://github.com/pallets/click
 	```
-- [PyPi](https://pypi.org/project/click) (📥 86M / month · 📦 110K · ⏱️ 19.05.2021):
+- [PyPi](https://pypi.org/project/click) (📥 94M / month):
 	```
 	pip install click
 	```
 </details>
-<details><summary><b><a href="https://github.com/pygments/pygments">pygments</a></b> (🥈36 ·  ⭐ 690) - Pygments is a generic syntax highlighter written in Python. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pygments/pygments">pygments</a></b> (🥈36 ·  ⭐ 730) - Pygments is a generic syntax highlighter written in Python. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/pygments/pygments) (👨‍💻 650 · 🔀 720 · 📦 240K · 📋 1.5K - 22% open · ⏱️ 17.08.2021):
+- [GitHub](https://github.com/pygments/pygments) (👨‍💻 650 · 🔀 310 · 📦 250K · 📋 1.5K - 20% open · ⏱️ 29.09.2021):
 
 	```
 	git clone https://github.com/pygments/pygments
 	```
-- [PyPi](https://pypi.org/project/Pygments) (📥 28M / month · 📦 68K · ⏱️ 15.08.2021):
+- [PyPi](https://pypi.org/project/Pygments) (📥 29M / month):
 	```
 	pip install Pygments
 	```
 </details>
-<details><summary><b><a href="https://github.com/willmcgugan/rich">rich</a></b> (🥈33 ·  ⭐ 28K) - Rich is a Python library for rich text and beautiful formatting in the terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/willmcgugan/rich">rich</a></b> (🥈33 ·  ⭐ 30K) - Rich is a Python library for rich text and beautiful formatting in the terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/willmcgugan/rich) (👨‍💻 100 · 🔀 850 · 📦 6.1K · 📋 500 - 1% open · ⏱️ 09.08.2021):
+- [GitHub](https://github.com/willmcgugan/rich) (👨‍💻 120 · 🔀 890 · 📦 7.1K · 📋 540 - 2% open · ⏱️ 24.09.2021):
 
 	```
 	git clone https://github.com/willmcgugan/rich
 	```
-- [PyPi](https://pypi.org/project/rich) (📥 2M / month · ⏱️ 05.08.2021):
+- [PyPi](https://pypi.org/project/rich) (📥 2.2M / month):
 	```
 	pip install rich
 	```
 </details>
-<details><summary><b><a href="https://github.com/google/python-fire">python-fire</a></b> (🥉32 ·  ⭐ 20K · 📈) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/google/python-fire">python-fire</a></b> (🥉30 ·  ⭐ 20K · 📉) - Python Fire is a library for automatically generating.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/google/python-fire) (👨‍💻 46 · 🔀 1.2K · 📦 8.7K · 📋 250 - 42% open · ⏱️ 17.06.2021):
+- [GitHub](https://github.com/google/python-fire) (👨‍💻 46 · 🔀 1.2K · 📦 9.2K · 📋 240 - 39% open · ⏱️ 17.06.2021):
 
 	```
 	git clone https://github.com/google/python-fire
 	```
-- [PyPi](https://pypi.org/project/fire) (📥 1.4M / month · 📦 1.2K · ⏱️ 22.01.2021):
+- [PyPi](https://pypi.org/project/fire) (📥 1.4M / month):
 	```
 	pip install fire
 	```
 </details>
-<details><summary><b><a href="https://github.com/prompt-toolkit/python-prompt-toolkit">python-prompt-toolkit</a></b> (🥉32 ·  ⭐ 7.2K · 📈) - Library for building powerful interactive command line applications in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/prompt-toolkit/python-prompt-toolkit">python-prompt-toolkit</a></b> (🥉25 ·  ⭐ 7.3K · 📉) - Library for building powerful interactive command.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/prompt-toolkit/python-prompt-toolkit) (👨‍💻 190 · 🔀 560 · 📋 920 - 46% open · ⏱️ 19.08.2021):
+- [GitHub](https://github.com/prompt-toolkit/python-prompt-toolkit) (👨‍💻 190 · 🔀 560 · 📋 910 - 45% open · ⏱️ 14.09.2021):
 
 	```
 	git clone https://github.com/prompt-toolkit/python-prompt-toolkit
 	```
-- [PyPi](https://pypi.org/project/prompt-toolkit) (📥 19M / month · 📦 530 · ⏱️ 17.06.2021):
+- [PyPi](https://pypi.org/project/prompt-toolkit) (📥 20M / month):
 	```
 	pip install prompt-toolkit
 	```
 </details>
-<details><summary><b><a href="https://github.com/tiangolo/typer">typer</a></b> (🥉23 ·  ⭐ 5.9K · 💤) - Typer, build great CLIs. Easy to code. Based on Python type hints. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tiangolo/typer">typer</a></b> (🥉24 ·  ⭐ 6.3K · 📈) - Typer, build great CLIs. Easy to code. Based on Python type hints. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tiangolo/typer) (👨‍💻 8 · 🔀 220 · 📋 220 - 58% open · ⏱️ 16.08.2020):
+- [GitHub](https://github.com/tiangolo/typer) (👨‍💻 9 · 🔀 240 · 📋 210 - 54% open · ⏱️ 30.08.2021):
 
 	```
 	git clone https://github.com/tiangolo/typer
 	```
-- [PyPi](https://pypi.org/project/typer) (📥 2.1M / month · ⏱️ 16.08.2020):
+- [PyPi](https://pypi.org/project/typer) (📥 2.7M / month):
 	```
 	pip install typer
 	```
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/amjith/fuzzyfinder">fuzzyfinder</a></b> (🥉20 ·  ⭐ 360 · 💀) - Fuzzy Finder implemented in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/amjith/fuzzyfinder">fuzzyfinder</a></b> (🥉18 ·  ⭐ 360 · 💀) - Fuzzy Finder implemented in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 </details>
 <br>
 
 ## Logging, Debugging, and Exception Handling
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<a href="#contents"><img align="right" width="15" height="15" src="https://bit.ly/382Vmvi" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/willmcgugan/rich">rich.logging</a></b> (🥇33 ·  ⭐ 28K) - Rich is a Python library for rich text and beautiful formatting in the terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/willmcgugan/rich">rich.logging</a></b> (🥇33 ·  ⭐ 30K) - Rich is a Python library for rich text and beautiful formatting in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/willmcgugan/rich) (👨‍💻 100 · 🔀 850 · 📦 6.1K · 📋 500 - 1% open · ⏱️ 09.08.2021):
+- [GitHub](https://github.com/willmcgugan/rich) (👨‍💻 120 · 🔀 890 · 📦 7.1K · 📋 540 - 2% open · ⏱️ 24.09.2021):
 
 	```
 	git clone https://github.com/willmcgugan/rich
 	```
-- [PyPi](https://pypi.org/project/rich) (📥 2M / month · ⏱️ 05.08.2021):
+- [PyPi](https://pypi.org/project/rich) (📥 2.2M / month):
 	```
 	pip install rich
 	```
 </details>
-<details><summary><b><a href="https://github.com/madzak/python-json-logger">python-json-logger</a></b> (🥈32 ·  ⭐ 1K · 📈) - Json Formatter for the standard python logger. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/madzak/python-json-logger">python-json-logger</a></b> (🥈32 ·  ⭐ 1.1K) - Json Formatter for the standard python logger. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
 - [GitHub](https://github.com/madzak/python-json-logger) (👨‍💻 46 · 🔀 160 · 📦 17K · 📋 65 - 30% open · ⏱️ 27.07.2021):
 
 	```
 	git clone https://github.com/madzak/python-json-logger
 	```
-- [PyPi](https://pypi.org/project/python-json-logger) (📥 3.6M / month · 📦 920 · ⏱️ 27.07.2021):
+- [PyPi](https://pypi.org/project/python-json-logger) (📥 3.9M / month):
 	```
 	pip install python-json-logger
 	```
 </details>
-<details><summary><b><a href="https://github.com/getsentry/sentry-python">sentry</a></b> (🥈32 ·  ⭐ 1K) - The new Python SDK for Sentry.io. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/getsentry/sentry-python">sentry</a></b> (🥈32 ·  ⭐ 1.1K) - The new Python SDK for Sentry.io. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/getsentry/sentry-python) (👨‍💻 100 · 🔀 220 · 📥 4.5K · 📦 13K · 📋 550 - 30% open · ⏱️ 27.07.2021):
+- [GitHub](https://github.com/getsentry/sentry-python) (👨‍💻 100 · 🔀 230 · 📥 4.5K · 📦 14K · 📋 550 - 30% open · ⏱️ 29.09.2021):
 
 	```
 	git clone https://github.com/getsentry/sentry-python
 	```
-- [PyPi](https://pypi.org/project/sentry-sdk) (📥 9M / month · 📦 990 · ⏱️ 27.07.2021):
+- [PyPi](https://pypi.org/project/sentry-sdk) (📥 9.9M / month):
 	```
 	pip install sentry-sdk
 	```
 </details>
-<details><summary><b><a href="https://github.com/Delgan/loguru">loguru</a></b> (🥉31 ·  ⭐ 9.5K) - Python logging made (stupidly) simple. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Delgan/loguru">loguru</a></b> (🥉31 ·  ⭐ 9.9K) - Python logging made (stupidly) simple. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Delgan/loguru) (👨‍💻 29 · 🔀 430 · 📦 9.3K · 📋 440 - 12% open · ⏱️ 17.07.2021):
+- [GitHub](https://github.com/Delgan/loguru) (👨‍💻 30 · 🔀 440 · 📦 10K · 📋 460 - 13% open · ⏱️ 09.09.2021):
 
 	```
 	git clone https://github.com/Delgan/loguru
 	```
-- [PyPi](https://pypi.org/project/loguru) (📥 1.5M / month · 📦 340 · ⏱️ 20.09.2020):
+- [PyPi](https://pypi.org/project/loguru) (📥 1.6M / month):
 	```
 	pip install loguru
 	```
 </details>
-<details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥉27 ·  ⭐ 1.6K · 📈) - Structured Logging for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/bobbui/json-logging-python">json-logging-python</a></b> (🥉26 ·  ⭐ 190) - Cloud-native distributed Python logging library to.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/hynek/structlog) (👨‍💻 74 · 🔀 140 · 📦 3.5K · 📋 190 - 17% open · ⏱️ 11.08.2021):
-
-	```
-	git clone https://github.com/hynek/structlog
-	```
-- [PyPi](https://pypi.org/project/structlog) (📥 2.3M / month · 📦 1.2K · ⏱️ 18.02.2021):
-	```
-	pip install structlog
-	```
-</details>
-<details><summary><b><a href="https://github.com/bobbui/json-logging-python">json-logging-python</a></b> (🥉26 ·  ⭐ 180 · 📈) - Cloud-native distributed Python logging library to emit JSON log that can be easily indexed by logging infrastructure. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/bobbui/json-logging-python) (👨‍💻 21 · 🔀 44 · 📦 180 · 📋 54 - 9% open · ⏱️ 24.07.2021):
+- [GitHub](https://github.com/bobbui/json-logging-python) (👨‍💻 21 · 🔀 43 · 📦 200 · 📋 55 - 7% open · ⏱️ 24.07.2021):
 
 	```
 	git clone https://github.com/bobbui/json-logging-python
 	```
-- [PyPi](https://pypi.org/project/json-logging) (📥 910K / month · 📦 8 · ⏱️ 09.07.2021):
+- [PyPi](https://pypi.org/project/json-logging) (📥 940K / month):
 	```
 	pip install json-logging
 	```
 </details>
-<details><summary><b><a href="https://github.com/Qix-/better-exceptions">better-exceptions</a></b> (🥉22 ·  ⭐ 4K · 💤) - Pretty and useful exceptions in Python, automatically. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥉24 ·  ⭐ 1.7K · 📉) - Structured Logging for Python. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Qix-/better-exceptions) (👨‍💻 14 · 🔀 200 · 📋 70 - 41% open · ⏱️ 29.01.2021):
+- [GitHub](https://github.com/hynek/structlog) (👨‍💻 76 · 🔀 140 · 📦 3.7K · 📋 190 - 14% open · ⏱️ 21.09.2021):
+
+	```
+	git clone https://github.com/hynek/structlog
+	```
+- [PyPi](https://pypi.org/project/structlog) (📥 2.3M / month):
+	```
+	pip install structlog
+	```
+</details>
+<details><summary><b><a href="https://github.com/Qix-/better-exceptions">better-exceptions</a></b> (🥉20 ·  ⭐ 4K · 📉) - Pretty and useful exceptions in Python, automatically. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Qix-/better-exceptions) (👨‍💻 15 · 🔀 180 · 📋 63 - 34% open · ⏱️ 24.08.2021):
 
 	```
 	git clone https://github.com/Qix-/better-exceptions
 	```
-- [PyPi](https://pypi.org/project/better-exceptions) (📥 27K / month · 📦 74 · ⏱️ 29.01.2021):
+- [PyPi](https://pypi.org/project/better-exceptions) (📥 24K / month):
 	```
 	pip install better-exceptions
 	```
@@ -220,52 +220,52 @@ This curated list contains 33 awesome open-source projects with a total of 170K 
 
 ## Caching and Memoization
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<a href="#contents"><img align="right" width="15" height="15" src="https://bit.ly/382Vmvi" alt="Back to top"></a>
 
-<details><summary><b><a href="https://joblib.readthedocs.io/en/latest/generated/joblib.Memory.html">joblib.Memory</a></b> (🥇35 ·  ⭐ 2.5K · 📈) - `joblib.Memory` defines a context object for caching a functions return value each time it is called with the same.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://joblib.readthedocs.io/en/latest/generated/joblib.Memory.html">joblib.Memory</a></b> (🥇33 ·  ⭐ 2.6K · 📉) - `joblib.Memory` defines a context object for caching a.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/joblib/joblib) (👨‍💻 100 · 🔀 300 · 📦 120K · 📋 660 - 44% open · ⏱️ 11.06.2021):
+- [GitHub](https://github.com/joblib/joblib) (👨‍💻 110 · 🔀 300 · 📦 130K · 📋 650 - 43% open · ⏱️ 13.09.2021):
 
 	```
 	git clone https://github.com/joblib/joblib
 	```
-- [PyPi](https://pypi.org/project/joblib) (📥 27M / month · 📦 6.6K · ⏱️ 09.02.2021):
+- [PyPi](https://pypi.org/project/joblib) (📥 27M / month):
 	```
 	pip install joblib
 	```
 </details>
-<details><summary><b><a href="https://boltons.readthedocs.io/en/latest/cacheutils.html">boltons.cacheutils</a></b> (🥈30 ·  ⭐ 5.5K · 📈) - `boltons.cacheutils` contains consistent implementations of fundamental cache types. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://boltons.readthedocs.io/en/latest/cacheutils.html">boltons.cacheutils</a></b> (🥈27 ·  ⭐ 5.6K · 📉) - `boltons.cacheutils` contains consistent.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/mahmoud/boltons) (👨‍💻 72 · 🔀 300 · 📥 21 · 📦 1.6K · 📋 130 - 31% open · ⏱️ 19.05.2021):
+- [GitHub](https://github.com/mahmoud/boltons) (👨‍💻 72 · 🔀 310 · 📥 23 · 📦 1.7K · 📋 120 - 28% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/mahmoud/boltons
 	```
-- [PyPi](https://pypi.org/project/boltons) (📥 990K / month · 📦 490 · ⏱️ 17.05.2021):
+- [PyPi](https://pypi.org/project/boltons) (📥 1.1M / month):
 	```
 	pip install boltons
 	```
 </details>
-<details><summary><b><a href="https://github.com/tkem/cachetools">cachetools</a></b> (🥈30 ·  ⭐ 1K · 📈) - Extensible memoizing collections and decorators. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tkem/cachetools">cachetools</a></b> (🥉21 ·  ⭐ 1.1K · 📉) - Extensible memoizing collections and decorators. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tkem/cachetools) (👨‍💻 5 · 🔀 110 · 📋 180 - 5% open · ⏱️ 09.08.2021):
+- [GitHub](https://github.com/tkem/cachetools) (👨‍💻 5 · 🔀 120 · 📋 190 - 5% open · ⏱️ 30.09.2021):
 
 	```
 	git clone https://github.com/tkem/cachetools
 	```
-- [PyPi](https://pypi.org/project/cachetools) (📥 43M / month · 📦 4.4K · ⏱️ 27.04.2021):
+- [PyPi](https://pypi.org/project/cachetools) (📥 44M / month):
 	```
 	pip install cachetools
 	```
 </details>
-<details><summary><b><a href="https://github.com/uqfoundation/klepto">klepto</a></b> (🥉21 ·  ⭐ 200 · 📈) - persistent caching to memory, disk, or database. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/uqfoundation/klepto">klepto</a></b> (🥉16 ·  ⭐ 200 · 📉) - persistent caching to memory, disk, or database. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/uqfoundation/klepto) (👨‍💻 2 · 🔀 23 · 📥 400 · 📋 91 - 52% open · ⏱️ 17.06.2021):
+- [GitHub](https://github.com/uqfoundation/klepto) (👨‍💻 2 · 🔀 23 · 📥 430 · 📋 91 - 52% open · ⏱️ 17.06.2021):
 
 	```
 	git clone https://github.com/uqfoundation/klepto
 	```
-- [PyPi](https://pypi.org/project/klepto) (📥 69K / month · 📦 12 · ⏱️ 13.06.2021):
+- [PyPi](https://pypi.org/project/klepto) (📥 65K / month):
 	```
 	pip install klepto
 	```
@@ -274,64 +274,64 @@ This curated list contains 33 awesome open-source projects with a total of 170K 
 
 ## Configuration Management
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<a href="#contents"><img align="right" width="15" height="15" src="https://bit.ly/382Vmvi" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/theskumar/python-dotenv">python-dotenv</a></b> (🥇34 ·  ⭐ 4.2K · 📈) - Get and set values in your .env file in local and production servers. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/theskumar/python-dotenv">python-dotenv</a></b> (🥇32 ·  ⭐ 4.3K · 📉) - Get and set values in your .env file in local and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/theskumar/python-dotenv) (👨‍💻 71 · 🔀 260 · 📦 140K · 📋 180 - 7% open · ⏱️ 25.07.2021):
+- [GitHub](https://github.com/theskumar/python-dotenv) (👨‍💻 71 · 🔀 270 · 📦 150K · 📋 190 - 7% open · ⏱️ 25.07.2021):
 
 	```
 	git clone https://github.com/theskumar/python-dotenv
 	```
-- [PyPi](https://pypi.org/project/python-dotenv) (📥 10M / month · 📦 9.4K · ⏱️ 24.07.2021):
+- [PyPi](https://pypi.org/project/python-dotenv) (📥 11M / month):
 	```
 	pip install python-dotenv
 	```
 </details>
-<details><summary><b><a href="https://github.com/rochacbruno/dynaconf">dynaconf</a></b> (🥈29 ·  ⭐ 1.9K) - Configuration Management for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rochacbruno/dynaconf">dynaconf</a></b> (🥈30 ·  ⭐ 1.9K · 📈) - Configuration Management for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rochacbruno/dynaconf) (👨‍💻 69 · 🔀 180 · 📦 1.5K · 📋 300 - 26% open · ⏱️ 12.08.2021):
+- [GitHub](https://github.com/rochacbruno/dynaconf) (👨‍💻 71 · 🔀 180 · 📦 1.7K · 📋 300 - 24% open · ⏱️ 09.09.2021):
 
 	```
 	git clone https://github.com/rochacbruno/dynaconf
 	```
-- [PyPi](https://pypi.org/project/dynaconf) (📥 390K / month · 📦 92 · ⏱️ 08.03.2021):
+- [PyPi](https://pypi.org/project/dynaconf) (📥 450K / month):
 	```
 	pip install dynaconf
 	```
 </details>
-<details><summary><b><a href="https://github.com/henriquebastos/python-decouple">python-decouple</a></b> (🥈29 ·  ⭐ 1.8K · 📈) - Strict separation of config from code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/henriquebastos/python-decouple">python-decouple</a></b> (🥉28 ·  ⭐ 1.9K · 📉) - Strict separation of config from code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/henriquebastos/python-decouple) (👨‍💻 24 · 🔀 140 · 📦 44K · 📋 72 - 22% open · ⏱️ 05.06.2021):
+- [GitHub](https://github.com/henriquebastos/python-decouple) (👨‍💻 26 · 🔀 140 · 📦 47K · 📋 69 - 8% open · ⏱️ 27.09.2021):
 
 	```
 	git clone https://github.com/henriquebastos/python-decouple
 	```
-- [PyPi](https://pypi.org/project/python-decouple) (📥 450K / month · 📦 6K · ⏱️ 05.01.2021):
+- [PyPi](https://pypi.org/project/python-decouple) (📥 550K / month):
 	```
 	pip install python-decouple
 	```
 </details>
-<details><summary><b><a href="https://github.com/sloria/environs">environs</a></b> (🥈29 ·  ⭐ 710 · 📈) - simplified environment variable parsing. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/sloria/environs">environs</a></b> (🥉26 ·  ⭐ 740 · 📉) - simplified environment variable parsing. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sloria/environs) (👨‍💻 22 · 🔀 47 · 📦 4.9K · 📋 66 - 7% open · ⏱️ 09.08.2021):
+- [GitHub](https://github.com/sloria/environs) (👨‍💻 21 · 🔀 47 · 📦 5.6K · 📋 68 - 10% open · ⏱️ 09.08.2021):
 
 	```
 	git clone https://github.com/sloria/environs
 	```
-- [PyPi](https://pypi.org/project/environs) (📥 450K / month · 📦 180 · ⏱️ 09.08.2021):
+- [PyPi](https://pypi.org/project/environs) (📥 470K / month):
 	```
 	pip install environs
 	```
 </details>
-<details><summary><b><a href="https://github.com/facebookresearch/hydra">hydra</a></b> (🥉24 ·  ⭐ 4.7K) - Hydra is a framework for elegantly configuring complex applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/facebookresearch/hydra">hydra</a></b> (🥉21 ·  ⭐ 4.9K · 📉) - Hydra is a framework for elegantly configuring complex applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/facebookresearch/hydra) (👨‍💻 77 · 🔀 370 · 📦 3 · 📋 850 - 8% open · ⏱️ 19.08.2021):
+- [GitHub](https://github.com/facebookresearch/hydra) (👨‍💻 80 · 🔀 360 · 📦 3 · 📋 880 - 8% open · ⏱️ 21.09.2021):
 
 	```
 	git clone https://github.com/facebookresearch/hydra
 	```
-- [PyPi](https://pypi.org/project/hydra) (📥 7.1K / month · 📦 6 · ⏱️ 03.08.2016):
+- [PyPi](https://pypi.org/project/hydra) (📥 4.9K / month):
 	```
 	pip install hydra
 	```
@@ -340,119 +340,135 @@ This curated list contains 33 awesome open-source projects with a total of 170K 
 
 ## Dates, times, and datetimes
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<a href="#contents"><img align="right" width="15" height="15" src="https://bit.ly/382Vmvi" alt="Back to top"></a>
 
 _Libraries for handeling all sorts of datetime objects. Note that both `arrow` and `pendulum` are built on top of `dateutil` and `pytz`_
 
-<details><summary><b><a href="https://github.com/arrow-py/arrow">arrow</a></b> (🥈35 ·  ⭐ 7.5K) - Better dates & times for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/arrow-py/arrow">arrow</a></b> (🥇35 ·  ⭐ 7.6K) - Better dates & times for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/arrow-py/arrow) (👨‍💻 240 · 🔀 580 · 📦 21K · 📋 430 - 13% open · ⏱️ 18.08.2021):
+- [GitHub](https://github.com/arrow-py/arrow) (👨‍💻 240 · 🔀 580 · 📦 22K · 📋 440 - 13% open · ⏱️ 28.09.2021):
 
 	```
 	git clone https://github.com/arrow-py/arrow
 	```
-- [PyPi](https://pypi.org/project/arrow) (📥 4.2M / month · 📦 7.4K · ⏱️ 24.06.2021):
+- [PyPi](https://pypi.org/project/arrow) (📥 4.7M / month):
 	```
 	pip install arrow
 	```
 </details>
-<details><summary><b><a href="https://github.com/stub42/pytz">pytz</a></b> (🥉31 ·  ⭐ 180 · 📈) - pytz Python historical timezone library and database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dateutil/dateutil">dateutil</a></b> (🥇35 ·  ⭐ 1.7K · 📉) - Useful extensions to the standard Python datetime features. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/stub42/pytz) (👨‍💻 16 · 🔀 54 · 📦 820K · 📋 38 - 42% open · ⏱️ 22.03.2021):
+- [GitHub](https://github.com/dateutil/dateutil) (👨‍💻 120 · 🔀 380 · 📥 35K · 📦 570K · 📋 590 - 37% open · ⏱️ 09.08.2021):
+
+	```
+	git clone https://github.com/dateutil/dateutil
+	```
+- [PyPi](https://pypi.org/project/python-dateutil) (📥 130M / month):
+	```
+	pip install python-dateutil
+	```
+</details>
+<details><summary><b><a href="https://github.com/stub42/pytz">pytz</a></b> (🥉30 ·  ⭐ 180 · 📉) - pytz Python historical timezone library and database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/stub42/pytz) (👨‍💻 16 · 🔀 54 · 📦 860K · 📋 38 - 39% open · ⏱️ 26.09.2021):
 
 	```
 	git clone https://github.com/stub42/pytz
 	```
-- [PyPi](https://pypi.org/project/pytz) (📥 69M / month · 📦 150K · ⏱️ 01.02.2021):
+- [PyPi](https://pypi.org/project/pytz) (📥 70M / month):
 	```
 	pip install pytz
 	```
 </details>
-<details><summary><b><a href="https://github.com/sdispater/pendulum">pendulum</a></b> (🥉30 ·  ⭐ 4.5K · 📈) - Python datetimes made easy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/sdispater/pendulum">pendulum</a></b> (🥉25 ·  ⭐ 4.5K · 💤) - Python datetimes made easy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sdispater/pendulum) (👨‍💻 66 · 🔀 250 · 📋 420 - 46% open · ⏱️ 11.02.2021):
+- [GitHub](https://github.com/sdispater/pendulum) (👨‍💻 66 · 🔀 250 · 📋 390 - 42% open · ⏱️ 11.02.2021):
 
 	```
 	git clone https://github.com/sdispater/pendulum
 	```
-- [PyPi](https://pypi.org/project/pendulum) (📥 5.6M / month · 📦 1.1K · ⏱️ 24.07.2020):
+- [PyPi](https://pypi.org/project/pendulum) (📥 5M / month):
 	```
 	pip install pendulum
 	```
-</details>
-<details><summary>Show 1 hidden projects...</summary>
-
-- <b><a href="https://github.com/dateutil/dateutil">dateutil</a></b> (🥇36 ·  ⭐ 1.6K · 📈) - Useful extensions to the standard Python datetime features. <code><a href="https://tldrlegal.com/search?q=NRL">❗️NRL</a></code>
 </details>
 <br>
 
 ## Miscellaneous
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<a href="#contents"><img align="right" width="15" height="15" src="https://bit.ly/382Vmvi" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/GrahamDumpleton/wrapt">wrapt</a></b> (🥇33 ·  ⭐ 1.5K · 📈) - A Python module for decorators, wrappers and monkey patching. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/cloudpipe/cloudpickle">cloudpickle</a></b> (🥇29 ·  ⭐ 1K) - Extended pickling support for Python objects. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/GrahamDumpleton/wrapt) (👨‍💻 21 · 🔀 190 · 📋 130 - 19% open · ⏱️ 09.08.2021):
+- [GitHub](https://github.com/cloudpipe/cloudpickle) (👨‍💻 48 · 🔀 110 · 📥 19 · 📦 42K · 📋 200 - 29% open · ⏱️ 23.09.2021):
 
 	```
-	git clone https://github.com/GrahamDumpleton/wrapt
+	git clone https://github.com/cloudpipe/cloudpickle
 	```
-- [PyPi](https://pypi.org/project/wrapt) (📥 34M / month · 📦 21K · ⏱️ 17.08.2021):
+- [PyPi](https://pypi.org/project/cloudpickle) (📥 23M / month):
 	```
-	pip install wrapt
+	pip install cloudpickle
 	```
 </details>
-<details><summary><b><a href="https://github.com/mahmoud/boltons">boltons</a></b> (🥈30 ·  ⭐ 5.5K · 📈) - Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/r1chardj0n3s/parse">parse</a></b> (🥈28 ·  ⭐ 1.3K · 📉) - Parse strings using a specification based on the Python format() syntax. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mahmoud/boltons) (👨‍💻 72 · 🔀 300 · 📥 21 · 📦 1.6K · 📋 130 - 31% open · ⏱️ 19.05.2021):
-
-	```
-	git clone https://github.com/mahmoud/boltons
-	```
-- [PyPi](https://pypi.org/project/boltons) (📥 990K / month · 📦 490 · ⏱️ 17.05.2021):
-	```
-	pip install boltons
-	```
-</details>
-<details><summary><b><a href="https://github.com/uqfoundation/dill">dill</a></b> (🥈30 ·  ⭐ 1.5K · 📈) - serialize all of python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/uqfoundation/dill) (👨‍💻 30 · 🔀 120 · 📥 240K · 📋 350 - 39% open · ⏱️ 13.07.2021):
-
-	```
-	git clone https://github.com/uqfoundation/dill
-	```
-- [PyPi](https://pypi.org/project/dill) (📥 8.9M / month · 📦 5K · ⏱️ 13.06.2021):
-	```
-	pip install dill
-	```
-</details>
-<details><summary><b><a href="https://github.com/r1chardj0n3s/parse">parse</a></b> (🥉29 ·  ⭐ 1.3K) - Parse strings using a specification based on the Python format() syntax. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/r1chardj0n3s/parse) (👨‍💻 30 · 🔀 84 · 📦 8.8K · 📋 81 - 20% open · ⏱️ 04.06.2021):
+- [GitHub](https://github.com/r1chardj0n3s/parse) (👨‍💻 30 · 🔀 85 · 📦 9.2K · 📋 81 - 20% open · ⏱️ 04.06.2021):
 
 	```
 	git clone https://github.com/r1chardj0n3s/parse
 	```
-- [PyPi](https://pypi.org/project/parse) (📥 2.2M / month · 📦 2.2K · ⏱️ 14.01.2021):
+- [PyPi](https://pypi.org/project/parse) (📥 2.2M / month):
 	```
 	pip install parse
 	```
 </details>
-<details><summary><b><a href="https://github.com/seperman/deepdiff">deepdiff</a></b> (🥉29 ·  ⭐ 1.1K · 📈) - Deep Difference and search of any Python object/data. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mahmoud/boltons">boltons</a></b> (🥈27 ·  ⭐ 5.6K · 📉) - Like builtins, but boltons. 250+ constructs, recipes, and.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/seperman/deepdiff) (👨‍💻 54 · 🔀 140 · 📦 2.2K · 📋 150 - 18% open · ⏱️ 30.04.2021):
+- [GitHub](https://github.com/mahmoud/boltons) (👨‍💻 72 · 🔀 310 · 📥 23 · 📦 1.7K · 📋 120 - 28% open · ⏱️ 19.05.2021):
+
+	```
+	git clone https://github.com/mahmoud/boltons
+	```
+- [PyPi](https://pypi.org/project/boltons) (📥 1.1M / month):
+	```
+	pip install boltons
+	```
+</details>
+<details><summary><b><a href="https://github.com/seperman/deepdiff">deepdiff</a></b> (🥈27 ·  ⭐ 1.1K · 📉) - Deep Difference and search of any Python object/data. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/seperman/deepdiff) (👨‍💻 54 · 🔀 140 · 📦 2.4K · 📋 160 - 19% open · ⏱️ 30.04.2021):
 
 	```
 	git clone https://github.com/seperman/deepdiff
 	```
-- [PyPi](https://pypi.org/project/deepdiff) (📥 2.9M / month · 📦 820 · ⏱️ 29.04.2021):
+- [PyPi](https://pypi.org/project/deepdiff) (📥 3M / month):
 	```
 	pip install deepdiff
 	```
 </details>
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary><b><a href="https://github.com/GrahamDumpleton/wrapt">wrapt</a></b> (🥉24 ·  ⭐ 1.5K · 📉) - A Python module for decorators, wrappers and monkey patching. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- <b><a href="https://github.com/cloudpipe/cloudpickle">cloudpickle</a></b> (🥉29 ·  ⭐ 990 · 📈) - Extended pickling support for Python objects. <code><a href="https://tldrlegal.com/search?q=BSD-1-Clause">❗️BSD-1-Clause</a></code>
+- [GitHub](https://github.com/GrahamDumpleton/wrapt) (👨‍💻 21 · 🔀 200 · 📋 130 - 19% open · ⏱️ 09.08.2021):
+
+	```
+	git clone https://github.com/GrahamDumpleton/wrapt
+	```
+- [PyPi](https://pypi.org/project/wrapt) (📥 33M / month):
+	```
+	pip install wrapt
+	```
+</details>
+<details><summary><b><a href="https://github.com/uqfoundation/dill">dill</a></b> (🥉22 ·  ⭐ 1.5K · 📉) - serialize all of python. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/uqfoundation/dill) (👨‍💻 31 · 🔀 130 · 📥 240K · 📋 350 - 38% open · ⏱️ 19.09.2021):
+
+	```
+	git clone https://github.com/uqfoundation/dill
+	```
+- [PyPi](https://pypi.org/project/dill) (📥 10M / month):
+	```
+	pip install dill
+	```
 </details>
 
 ---
